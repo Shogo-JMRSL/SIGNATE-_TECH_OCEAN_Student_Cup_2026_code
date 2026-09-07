@@ -1,0 +1,8 @@
+# 人工データでの小規模確認に使用した直接依存。実データの全工程は未確認。
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+scikit-learn==1.9.0
+catboost==1.2.10
+matplotlib==3.11.1
+joblib==1.6.0

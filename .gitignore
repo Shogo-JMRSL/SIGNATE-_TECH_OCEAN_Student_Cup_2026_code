@@ -1,0 +1,14 @@
+# Default deny: only source and documentation are eligible for tracking.
+/*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/src/
+/src/*
+!/src/*.py
+!/scripts/
+/scripts/*
+!/scripts/*.py
+!/docs/
+/docs/*
+!/docs/*.md
